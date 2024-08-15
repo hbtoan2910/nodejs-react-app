@@ -56,4 +56,18 @@ To run both backend & frontend (on their own port), we use command: 'npm run dev
 
 ![image](https://github.com/user-attachments/assets/9ba347fb-eb1f-4933-83d5-10e95cffc28e)
 
+![image](https://github.com/user-attachments/assets/29b207bc-dbe7-4676-9027-9b9db5b3d701)
+
+![image](https://github.com/user-attachments/assets/f0f69010-10e7-4c4e-8cd2-d3c7697f8d1d)
+
+![image](https://github.com/user-attachments/assets/c02b383a-5d05-42f6-ae4e-824efc03afcb)
+
+Data retrieve from backend is displayed properly on frontend :)
+
+![image](https://github.com/user-attachments/assets/4dd1f568-aa4d-41da-8123-c9362306364b)
+
+
+
+
+
 
