@@ -2,7 +2,7 @@
 
 ## INSTRUCTION:
 
-Context: Technically, a web app has 2 parts: frontend to display data, interact with client and backend to handle routing, business logic, interact with database.
+Context: Technically, a web app has 2 parts: frontend to display data, interact with client and backend to handle routing, business logic, interact with database. When developing web apps, if you concern how to run frontend part on 1 port and backend part on other port, and frontend can send request to get data from backend, this is the good instruction for you :")
 
 Application structure:
 
